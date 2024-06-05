@@ -24,3 +24,9 @@ git remote add origin git@github.com:jalmengor/experimental-design-project.git
 git branch -M main
 git push -u origin main
 ```
+
+## Checking and switching the conda environments
+
+To list the currently installed environments just type `conda env list`
+
+Switching between environments works as simply as typing `conda activate [NAME]` and if done with it deactivating it (and going back to the base environment) with `conda deactivate`.
