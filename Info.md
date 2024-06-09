@@ -16,12 +16,13 @@ Valor de la Producción Agrícola
 https://www.fao.org/faostat/es/#data/QV
 
 
-Indices de producción
+Indices de producción (no)
 https://www.fao.org/faostat/es/#data/QI
 
 
 Variación de temperatura de la superficie terrestre (check)*
 https://www.fao.org/faostat/es/#data/ET
+
 
 Uso de la tierra(check)*
 https://www.fao.org/faostat/es/#data/RL
@@ -33,4 +34,8 @@ https://www.fao.org/faostat/es/#data/TCL
 
 Cultivos y productos de ganadería (check)
 https://www.fao.org/faostat/es/#data/QCL
+
+
+Costa Rica: Indicadores de precipitaciones a nivel subnacional
+https://data.humdata.org/dataset/cri-rainfall-subnational
 
